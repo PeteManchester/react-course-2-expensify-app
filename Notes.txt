@@ -1,0 +1,16 @@
+
+C:\Keep\Genesys\Courses\React\react-course-projects\indecision-app
+
+babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
+live-server public
+
+
+yarn run serve
+yarn run build
+
+yarn run dev-server
+
+
+
+yarn test
+yarn test -- --watch

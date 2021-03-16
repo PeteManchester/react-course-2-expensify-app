@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],[,function(n,s,o){"use strict";o.r(s),o.d(s,"square",(function(){return i})),console.log("utils.js is running...");const i=n=>n*n}]]);
